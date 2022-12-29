@@ -1,0 +1,42 @@
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly ;
+    border: 1px solid black;
+    margin-top: 1cm;
+    border-radius: 100px;
+    
+  
+
+    
+    
+    
+}
+
+.card{
+   border:  1px solid black;
+   border-radius: 100px;}
+   
+
+.header {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.lv{
+width: 200px;
+text-align: center;
+
+
+
+}
+.hfe{
+
+height: 20px;
+margin-top: 20px;
+word-spacing: 1.5cm;
+
+}
+
+  
